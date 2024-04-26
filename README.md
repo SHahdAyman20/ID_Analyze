@@ -1,6 +1,11 @@
 # id_analyze
 
-A new Flutter project.
+Flutter app consists of 2 awesome and animating screens: Splash screen && Home screen which has 1 textField that takes the national ID from user and displays alert dialog containing the user information like year, month, day, birthplaceCode, gender, card number
+
+
+https://github.com/SHahdAyman20/ID_Analyze/assets/121692567/493c5936-7b2c-4911-be3c-c8536b7eb705
+
+
 
 ## Getting Started
 
