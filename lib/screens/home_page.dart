@@ -117,10 +117,10 @@ class _HomePageState extends State<HomePage> {
             textAlign: TextAlign.center,
             style: TextStyle(fontWeight: FontWeight.w600, fontSize: 30),
           ),
-          content: Container(
+          content: SizedBox(
             height: 250,
-            padding: const EdgeInsets.all(10),
-            margin: const EdgeInsets.all(10),
+          //  padding: const EdgeInsets.all(10),
+         //   margin: const EdgeInsets.all(10),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [

@@ -11,7 +11,7 @@ class SplashScreen extends StatelessWidget {
     return Scaffold(
        body: FlutterSplashScreen(
           useImmersiveMode: true,
-          duration: const Duration(seconds: 5),
+          duration: const Duration(seconds: 3),
           nextScreen: const HomePage(),
           backgroundColor: Colors.white,
           splashScreenBody: Center(
